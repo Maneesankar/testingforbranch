@@ -1,1 +1,5 @@
 changinghis is file from master and adding
+common ancestors
+this is file from master
+this is file from master and adding
+nflictest
